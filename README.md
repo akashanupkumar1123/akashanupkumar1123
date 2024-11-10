@@ -1,6 +1,6 @@
 <!-- Animated AI-Themed Banner -->
 <p align="center">
-  <img src="https://example.com/path-to-your-ai-themed-banner.gif" alt="AI Banner" width="100%" />
+  <img src="https://media.giphy.com/media/IpWc9hCbbAPvhRX1Je/giphy.gif" alt="AI Banner" width="100%" />
 </p>
 
 
