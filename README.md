@@ -1,59 +1,72 @@
-## Hi there 👋
-
-<h1 align="center">I'm Akash Anupkumar</h1>
-<h3 align="center">ML/DL Innovations & Study Essentials - Dive into My GitHub Universe 🚀</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=akashanupkumar1123&label=Profile%20views&color=0e75b6&style=flat" alt="akashanupkumar1123" /> </p>
-
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=akashanupkumar1123&theme=darkhub&column=4&margin-w=15&margin-h=15" alt="akashanupkumar1123 trophies" />
-  </a>
+<!-- ASCII Banner with Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=36BCF7&center=true&width=435&lines=Hey+There!+I'm+Akash+Anupkumar;Welcome+to+My+ML+and+DL+Playground+%F0%9F%92%BB" alt="Typing SVG" />
 </p>
 
-### 🚀 About Me
+## 🌌 About Me in a Nutshell
 
-- 🔭 Currently working on **Generative Adversarial Networks (GANs) & Large Language Models (LLMs)**
-- 🌱 Learning all about **Generative AI and new advancements**
-- 🤝 Open to collaborations on **Deep Learning & Computer Vision**
-- 💬 Ask me about **Python, Alteryx, PowerBI, Machine Learning, Deep Learning**
-- 📫 How to reach me: **akashanupkumar1123@gmail.com**
+- 🔭 **Exploring**: Generative Adversarial Networks (GANs) & Large Language Models (LLMs)
+- 🌱 **Learning**: Generative AI - keeping up with the coolest tech in ML/DL
+- 🤝 **Collaborate on**: Deep Learning & Computer Vision projects
+- 💬 **Ask me about**: Python, Alteryx, PowerBI, Machine Learning, Deep Learning
+- 📫 **Reach me at**: akashanupkumar1123@gmail.com
 
 ---
 
-### 📬 Connect with Me
-<a href="https://linkedin.com/in/akash-anupkumar1123" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn Profile" height="30" width="40" />
+### 🗺️ Visitor Map & Count
+
+<p align="center">
+  <img src="https://profile-counter.glitch.me/akashanupkumar1123/count.svg" alt="Visitor Count" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/gayanvoice/github-active-users-map/main/images/github-active-users-map.svg" alt="GitHub Visitor Map" />
+</p>
+
+---
+
+### 🏅 Achievements Carousel
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Machine%20Learning%20Specialist-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Machine Learning Specialist" />
+  <img src="https://img.shields.io/badge/Data%20Analytics%20Pro-%23FF6F00.svg?style=for-the-badge&logo=tableau&logoColor=white" alt="Data Analytics Pro" />
+  <img src="https://img.shields.io/badge/Deep%20Learning%20Practitioner-%2300D09C.svg?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Deep Learning Practitioner" />
+  <img src="https://img.shields.io/badge/AI%20Enthusiast-%23FF5733.svg?style=for-the-badge&logo=brainly&logoColor=white" alt="AI Enthusiast" />
+  <!-- Add more badges as needed -->
+</div>
+
+---
+
+### 💼 Current Projects
+- 🌐 Building cool stuff with **Generative AI**
+- 🖼️ Training and refining **GANs** for image generation
+- 🧠 Experimenting with **Large Language Models (LLMs)**
+
+---
+
+### 🌈 Connect with Me!
+Let’s chat, collaborate, or just geek out over ML!
+<a href="https://linkedin.com/in/akash-anupkumar1123" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
 </a>
 
 ---
 
-### 🛠️ Languages & Tools
+### 🛠️ Skills & Tools
+
 <p align="left">
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
+    <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   </a>
-  <!-- Add more icons as needed -->
+  <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/PowerBI-%23F2C811.svg?style=for-the-badge&logo=powerbi&logoColor=white" alt="PowerBI"/>
+  </a>
+  <!-- Add more skills and tools badges here -->
 </p>
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="left">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akashanupkumar1123&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
-
-<p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=akashanupkumar1123&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
-</p>
-
----
-
-### 🏆 Trophies
+### 📈 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=akashanupkumar1123&theme=onedark" alt="GitHub Trophies" />
-</p>
-
----
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akashanupkumar1123&the
