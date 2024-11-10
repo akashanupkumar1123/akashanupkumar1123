@@ -71,10 +71,9 @@ Let’s chat, collaborate, or just geek out over ML!
 ---
 ### 🛠️ Skills & Tools 
 <p align="center">
-  <img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="80" height="80" alt="Code GIF" />
+  <img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="100" height="100" alt="Code GIF" />
 </p>
 
----
 <p align="center">
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
