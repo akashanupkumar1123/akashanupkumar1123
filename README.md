@@ -76,34 +76,17 @@ Let’s chat, collaborate, or just geek out over ML!
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   </a>
-  <a href="https://www.alteryx.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Alteryx-%230072B5.svg?style=for-the-badge&logo=alteryx&logoColor=white" alt="Alteryx"/>
+  <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/PowerBI-%23F2C811.svg?style=for-the-badge&logo=powerbi&logoColor=white" alt="PowerBI"/>
   </a>
-  <a href="https://learn.microsoft.com/en-us/visualstudio/vba/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/VBA-%235B1D28.svg?style=for-the-badge&logo=visualstudio&logoColor=white" alt="VBA"/>
-  </a>
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Machine%20Learning-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Machine Learning"/>
-  </a>
-  <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Deep%20Learning-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Deep Learning"/>
-  </a>
-  <a href="https://openai.com/research/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Generative%20AI-%23FF8C00.svg?style=for-the-badge&logo=openai&logoColor=white" alt="Generative AI"/>
-  </a>
-  <a href="https://keras.io/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=keras&logoColor=white" alt="Keras"/>
-  </a>
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
-  </a>
-  <a href="https://opencv.org/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Computer%20Vision-%23000A6C.svg?style=for-the-badge&logo=opencv&logoColor=white" alt="Computer Vision"/>
-  </a>
-  <a href="https://www.nltk.org/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/NLP-%23A8B9CC.svg?style=for-the-badge&logo=nltk&logoColor=white" alt="NLP"/>
+  <!-- Add more skills and tools badges here -->
+
+  <!-- Add GIF alongside badges -->
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://media.giphy.com/media/10K9ri5qUimTCs/giphy.gif" width="40" height="40" alt="AI GIF"/>
   </a>
 </p>
+---
 
 <!-- Small AI GIF -->
 <p align="center">
