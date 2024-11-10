@@ -37,6 +37,16 @@
 
 ---
 
+### 🏆 Trophies Collection
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=akashanupkumar1123&theme=radical&column=7&margin-w=10&margin-h=10" alt="GitHub Trophies" />
+  </a>
+</p>
+
+---
+
 ### 💼 Current Projects
 - 🌐 Building cool stuff with **Generative AI**
 - 🖼️ Training and refining **GANs** for image generation
@@ -69,4 +79,29 @@ Let’s chat, collaborate, or just geek out over ML!
 ### 📈 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akashanupkumar1123&the
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akashanupkumar1123&theme=highcontrast" alt="Streak Stats"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=akashanupkumar1123&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=akashanupkumar1123&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+---
+
+### 🌀 Random Developer Quote
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</p>
+
+---
+
+### 🌍 Fun Fact: Coding is My Zen Mode 🧘‍♂️
+
+<p align="center">
+  <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="200" height="200"/>
+</p>
+
+---
+
+Hope you enjoy exploring my profile! Happy coding! 😄✨
