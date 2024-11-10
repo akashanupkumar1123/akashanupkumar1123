@@ -1,3 +1,9 @@
+<!-- Animated AI-Themed Banner -->
+<p align="center">
+  <img src="https://example.com/path-to-your-ai-themed-banner.gif" alt="AI Banner" width="100%" />
+</p>
+
+
 <!-- ASCII Banner with Typing Animation -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=000000&center=true&width=800&lines=Hey+There!+I'm+Akash+Anupkumar;Welcome+to+My+ML+and+DL+Playground+%F0%9F%92%BB" alt="Typing SVG" />
