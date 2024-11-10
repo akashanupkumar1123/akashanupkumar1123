@@ -69,10 +69,10 @@ Let’s chat, collaborate, or just geek out over ML!
 </a>
 
 ---
-
+### 🛠️ Skills & Tools 
 <!-- Skills Section with Larger GIF -->
 <h3 align="center">
-  <img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="60" height="60" alt="Code GIF" style="vertical-align: middle; margin-right: 10px;" />
+  <img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="80" height="80" alt="Code GIF" style="vertical-align: middle; margin-right: 10px;" />
   🛠️ Skills & Tools
 </h3>
 
