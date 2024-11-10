@@ -71,52 +71,47 @@ Let’s chat, collaborate, or just geek out over ML!
 ---
 
 ### 🛠️ Skills & Tools 
-<p align="left">
-  <!-- Small GIF beside the heading -->
-  <img src="https://media.giphy.com/media/3oEjI1erPMT6T8i3yE/giphy.gif" width="40" height="40" alt="AI GIF" style="vertical-align: middle; margin-right: 10px;" />
+<!-- Skills Section with Small GIF -->
+<h3 align="center">
+  <img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="40" height="40" alt="Code GIF" style="vertical-align: middle; margin-right: 10px;" />
+  🛠️ Skills & Tools
+</h3>
 
-  <!-- Skills Badges -->
+---
+<p align="center">
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  </a>
+  <a href="https://www.alteryx.com" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Alteryx-%233776AB.svg?style=for-the-badge&logo=alteryx&logoColor=white" alt="Alteryx"/>
   </a>
   <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/PowerBI-%23F2C811.svg?style=for-the-badge&logo=powerbi&logoColor=white" alt="PowerBI"/>
   </a>
-  <a href="https://www.alteryx.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Alteryx-%23009c8c.svg?style=for-the-badge&logo=alteryx&logoColor=white" alt="Alteryx"/>
+  <a href="https://pytorch.org" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
   </a>
-  <a href="https://en.wikipedia.org/wiki/VBA_programming_language" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/VBA-%23328BFF.svg?style=for-the-badge&logo=microsoft&logoColor=white" alt="VBA"/>
+  <a href="https://keras.io" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=keras&logoColor=white" alt="Keras"/>
   </a>
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Machine%20Learning-%23F9A825.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Machine Learning"/>
+  <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/VBA%20Programming-%230075A2.svg?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="VBA Programming"/>
   </a>
-  <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Deep%20Learning-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Deep Learning"/>
+  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
   </a>
-  <a href="https://openai.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Gen%20AI-%23FF1493.svg?style=for-the-badge&logo=openai&logoColor=white" alt="Gen AI"/>
+  <a href="https://opencv.org" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Computer%20Vision-%23FF6F00.svg?style=for-the-badge&logo=opencv&logoColor=white" alt="Computer Vision"/>
   </a>
-  <a href="https://keras.io/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Keras-%23D32F2F.svg?style=for-the-badge&logo=keras&logoColor=white" alt="Keras"/>
+  <a href="https://en.wikipedia.org/wiki/Natural_language_processing" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/NLP-%2300C4CC.svg?style=for-the-badge&logo=read-the-docs&logoColor=white" alt="Natural Language Processing"/>
   </a>
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/PyTorch-%23EE4C97.svg?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
-  </a>
-  <a href="https://opencv.org/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Computer%20Vision-%2300BCD3.svg?style=for-the-badge&logo=opencv&logoColor=white" alt="Computer Vision"/>
-  </a>
-  <a href="https://www.nltk.org/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/NLP-%23FF9800.svg?style=for-the-badge&logo=nltk&logoColor=white" alt="NLP"/>
+  <a href="https://www.microsoft.com/microsoft-365" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Gen%20AI-%2300C4CC.svg?style=for-the-badge&logo=artstation&logoColor=white" alt="Generative AI"/>
   </a>
 </p>
 
 ---
-
-<!-- Small AI GIF -->
-<p align="center">
-  <img src="https://media.giphy.com/media/xT1R9QkR8qjScLuD2M/giphy.gif" width="100" height="100" alt="AI GIF"/>
-</p>
 
 
 ### 📈 GitHub Analytics
