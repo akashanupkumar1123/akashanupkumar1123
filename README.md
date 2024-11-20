@@ -63,9 +63,13 @@
 ---
 
 ### 🌈 Connect with Me! Let’s chat, collaborate, or just geek out over ML!  
-<a href="https://www.linkedin.com/in/akash1123" target="_blank">  
-   <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="30" height="30" />  
-</a>
+
+<div align="center">  
+   <a href="https://www.linkedin.com/in/akash1123" target="_blank">  
+      <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="100" height="100" />  
+   </a>  
+</div>
+
 
 
 ---
