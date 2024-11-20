@@ -62,11 +62,11 @@
 
 ---
 
-### 🌈 Connect with Me!
-Let’s chat, collaborate, or just geek out over ML!
-<a href="https://linkedin.com/in/akash-anupkumar1123" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+### 🌈 Connect with Me! Let’s chat, collaborate, or just geek out over ML!  
+<a href="https://www.linkedin.com/in/akash1123" target="_blank">  
+   <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="30" height="30" />  
 </a>
+
 
 ---
 ### 🛠️ Skills & Tools 
