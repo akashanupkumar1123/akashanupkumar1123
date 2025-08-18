@@ -5,7 +5,7 @@
 
 <!-- ASCII Banner with Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=00FFFF&center=true&width=800&lines=Hey+There!+I'm+Akash+Anupkumar;Welcome+to+My+ML+and+DL+Playground+%F0%9F%92%BB" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=00FFFF&center=true&width=800&lines=Hey+There!+I'm+Akash+Anupkumar;Welcome+to+My+ML+,+DL+,+GenAI+Playground+%F0%9F%92%BB" alt="Typing SVG" />
 </p>
 
 
