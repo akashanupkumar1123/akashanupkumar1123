@@ -19,11 +19,14 @@
 
 ---
 
-### 🗺️ **Visitor Map & Count**
+### 🗺️ Visitor Map & Count
 <p align="center">
-  <img src="https://profile-counter.glitch.me/akashanupkumar1123/count.svg" alt="Visitor Count" />
+  <!-- Total Visitors -->
+  <img src="https://komarev.com/ghpvc/?username=akashanupkumar1123&color=blueviolet&style=flat-square" alt="Visitor Count" />
 </p>
+
 <p align="center">
+  <!-- GitHub Active Users Map -->
   <img src="https://raw.githubusercontent.com/gayanvoice/github-active-users-map/main/images/github-active-users-map.svg" alt="GitHub Visitor Map" />
 </p>
 
@@ -44,12 +47,13 @@
 
 ---
 
-### 🏆 **GitHub Trophies**
+### 🏆 GitHub Trophies
 <p align="center">
-  <a href="https://github.com/akashumar">
-    <img src="https://github-profile-trophy.vercel.app/?username=akashumar&theme=discord&column=4&margin-w=20&margin-h=20&no-bg=true&no-frame=true&title=Stars,Commits,Followers,Repositories" alt="GitHub Trophies" />
+  <a href="https://github.com/akashanupkumar1123">
+    <img src="https://github-profile-trophy.vercel.app/?username=akashanupkumar1123&theme=discord&column=4&margin-w=20&margin-h=20&no-bg=true&no-frame=true&title=Stars,Commits,Followers,Repositories" alt="GitHub Trophies" />
   </a>
 </p>
+
 
 ---
 
@@ -149,11 +153,13 @@ Stay updated with freshest AI breakthroughs and innovations!
 
 ---
 
-### 🌟 **Fun Fact:** Coding is My Zen Mode 🧘‍♂️💻
+### 🌟 Fun Fact: Coding is My Zen Mode 🧘‍♂️💻
 <p align="center">
-  <img src="https://media.giphy.com/media/2IudUHd75HL02Pkk/giphy.gif" width="200" height="200" alt="Coding Zen Mode GIF" />
+  <img src="https://media.giphy.com/media/3o6gbbuLW76jkt8vIc/giphy.gif" width="200" height="200" alt="Coding Zen Mode GIF" />
 </p>
+
 *"When I code, I enter a state of flow – focused, calm, and creative, where problem-solving meets mindfulness."*
+
 
 ---
 
