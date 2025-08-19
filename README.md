@@ -25,8 +25,9 @@
   <img src="https://komarev.com/ghpvc/?username=akashanupkumar1123&color=blueviolet&style=flat-square" alt="Visitor Count" />
 </p>
 
+### 🗺️ GitHub Contributions
 <p align="center">
-  <img src="https://github-profile-map.vercel.app/map?username=akashanupkumar1123&theme=light" alt="GitHub Visitor Map" />
+  <img src="https://github-readme-stats.vercel.app/api?username=akashanupkumar1123&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
 </p>
 
 
@@ -46,14 +47,6 @@
 </div>
 
 ---
-
-### 🏆 GitHub Trophies
-<p align="center">
-  <a href="https://github.com/akashanupkumar1123">
-    <img src="https://github-profile-trophy.vercel.app/?username=akashanupkumar1123&theme=discord&column=4&margin-w=20&margin-h=20&no-bg=true&no-frame=true&title=Stars,Commits,Followers,Repositories" alt="GitHub Trophies" />
-  </a>
-</p>
-
 
 ---
 
