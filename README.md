@@ -13,12 +13,11 @@
 
 ## 🌌 About Me in a Nutshell
 
-- 🔭 **Exploring**: Generative Adversarial Networks (GANs) & Large Language Models (LLMs)
-- 🌱 **Learning**: Generative AI - keeping up with the coolest tech in ML/DL
-- 🤝 **Collaborate on**: Deep Learning & Computer Vision projects
-- 💬 **Ask me about**: Python, Alteryx, PowerBI, Machine Learning, Deep Learning
-- 📫 **Reach me at**: akashanupkumar1123@gmail.com
-
+- 🔭 Exploring: Retrieval-Augmented Generation (RAGs), Multimodal Agents, LangChain, and cutting-edge Generative AI frameworks
+🌱 Practicing & Learning: The latest GenAI models, tools, and applications across NLP, vision, and beyond — staying ahead in ML/DL innovation
+🤝 Open to Collaborate on: Machine Learning, Deep Learning, Generative AI (GenAI), and Explainable AI (XAI) projects that push boundaries
+💬 Ask me about: Python, Alteryx, PowerBI, RAGs, LangChain, GenAI workflows, and practical AI/ML/DL solutions
+📫 Connect with me: akashanupkumar1123@gmail.com
 ---
 
 ### 🗺️ Visitor Map & Count
@@ -33,34 +32,25 @@
 
 ---
 
-### 🏅 Achievements Carousel
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Machine%20Learning%20Specialist-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Machine Learning Specialist" />
-  <img src="https://img.shields.io/badge/Data%20Analytics%20Pro-%23FF6F00.svg?style=for-the-badge&logo=tableau&logoColor=white" alt="Data Analytics Pro" />
-  <img src="https://img.shields.io/badge/Deep%20Learning%20Practitioner-%2300D09C.svg?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Deep Learning Practitioner" />
-  <img src="https://img.shields.io/badge/AI%20Enthusiast-%23FF5733.svg?style=for-the-badge&logo=brainly&logoColor=white" alt="AI Enthusiast" />
-  <!-- Add more badges as needed -->
-</div>
+🏅 Achievements & Expertise
+<div align="center"> <img src="https://img.shields.io/badge/Machine%20Learning%20Specialist-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Machine Learning Specialist" /> <img src="https://img.shields.io/badge/Data%20Analytics%20Pro-%23FF6F00.svg?style=for-the-badge&logo=tableau&logoColor=white" alt="Data Analytics Pro" /> <img src="https://img.shields.io/badge/Deep%20Learning%20Practitioner-%2300D09C.svg?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Deep Learning Practitioner" /> <img src="https://img.shields.io/badge/AI%20Enthusiast-%23FF5733.svg?style=for-the-badge&logo=brainly&logoColor=white" alt="AI Enthusiast" /> <img src="https://img.shields.io/badge/Generative%20AI-%236E00FF.svg?style=for-the-badge&logo=github&logoColor=white" alt="Generative AI" /> <img src="https://img.shields.io/badge/Natural%20Language%20Processing-%23009688.svg?style=for-the-badge&logo=openai&logoColor=white" alt="NLP" /> <img src="https://img.shields.io/badge/Computer%20Vision-%23007ACC.svg?style=for-the-badge&logo=opencv&logoColor=white" alt="Computer Vision" /> <img src="https://img.shields.io/badge/Cloud%20AI-%2332A5F9.svg?style=for-the-badge&logo=aws&logoColor=white" alt="Cloud AI" /> <img src="https://img.shields.io/badge/Explainable%20AI-%23FF6F61.svg?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSJ3aGl0ZSIgdmVyc2lvbj0iMSIgdmlld0JveD0iMCAwIDQ4IDQ4IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxwYXRoIGQ9Ik00MiAxMkgzNi42OTdMMy4wMjMgMTMuODdjLS40OTQuMDk4LS44NTMuNTczLS44NTIgMS4xMjFbMy4wMjMgMTMuODdMIDEuMDYzIDMzTDI2LjEzOCA0NEMzMC4wNDggNDMuMTIxIDM0IDQxLjYwMSAzNCAzOGwwLTdiMC01LjYyLTMtOC0zLTE1IDAtNS45NjktNC4wMS0xMS04LTE3LTEuMjEzLTEuMTQzLTIuMTUyLTEuODIzLTMuMDMtMiAxIDIubCsTMC01VjExTDM1IDE4djItOHpNMjQgMTNgMywwLDgsOCw4VjIwLjlMNjQgOTAoIi8+PC9zdmc+" alt="Explainable AI" /> </div>
 
----
-
-### 🏆 Trophies Collection
+### 🏆 GitHub Trophies
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=akashanupkumar1123&theme=radical&column=7&margin-w=10&margin-h=10" alt="GitHub Trophies" />
+  <a href="https://github.com/akashumar">
+    <img src="https://github-profile-trophy.vercel.app/?username=akashumar&theme=discord&column=4&margin-w=20&margin-h=20&no-bg=true&no-frame=true&title=Stars,Commits,Followers,Repositories" alt="GitHub Trophies" />
   </a>
 </p>
 
----
 
-### 💼 Current Projects
-- 🌐 Building cool stuff with **Generative AI**
-- 🖼️ Training and refining **GANs** for image generation
-- 🧠 Experimenting with **Large Language Models (LLMs)**
+🚀 Current Projects
 
----
+🌐 Developing innovative solutions with Generative AI and multimodal agents
+🎨 Advancing GAN architectures for high-fidelity image synthesis
+🤖 Experimenting with Large Language Models (LLMs) and retrieval-augmented generation (RAG)
+🛠️ Building pipelines incorporating LangChain, multimodal AI tools, and real-world AI applications
 
 ### 🌈 Connect with Me! Let’s chat, collaborate, or just geek out over ML!  
 
@@ -71,48 +61,9 @@
 </div>
 
 
-
 ---
-### 🛠️ Skills & Tools 
-<p align="center">
-  <img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="100" height="100" alt="Code GIF" />
-</p>
-
-<p align="center">
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  </a>
-  <a href="https://www.alteryx.com" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Alteryx-%233776AB.svg?style=for-the-badge&logo=alteryx&logoColor=white" alt="Alteryx"/>
-  </a>
-  <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/PowerBI-%23F2C811.svg?style=for-the-badge&logo=powerbi&logoColor=white" alt="PowerBI"/>
-  </a>
-  <a href="https://pytorch.org" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
-  </a>
-  <a href="https://keras.io" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=keras&logoColor=white" alt="Keras"/>
-  </a>
-  <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/VBA%20Programming-%230075A2.svg?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="VBA Programming"/>
-  </a>
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
-  </a>
-  <a href="https://opencv.org" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Computer%20Vision-%23FF6F00.svg?style=for-the-badge&logo=opencv&logoColor=white" alt="Computer Vision"/>
-  </a>
-  <a href="https://en.wikipedia.org/wiki/Natural_language_processing" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/NLP-%2300C4CC.svg?style=for-the-badge&logo=read-the-docs&logoColor=white" alt="Natural Language Processing"/>
-  </a>
-  <a href="https://www.microsoft.com/microsoft-365" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Gen%20AI-%2300C4CC.svg?style=for-the-badge&logo=artstation&logoColor=white" alt="Generative AI"/>
-  </a>
-</p>
-
----
-
+🛠️ Skills & Tools
+<p align="center"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white"/> </a> <a href="https://www.alteryx.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Alteryx-%233776AB.svg?style=for-the-badge&logo=alteryx&logoColor=white"/> </a> <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/PowerBI-%23F2C811.svg?style=for-the-badge&logo=powerbi&logoColor=white"/> </a> <a href="https://pytorch.org" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/PyTorch-%EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white"/> </a> <a href="https://keras.io" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=keras&logoColor=white"/> </a> <a href="https://www.microsoft.com/excel" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/VBA-%230075A2.svg?style=for-the-badge&logo=microsoft-excel&logoColor=white"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow"/> </a> <a href="https://opencv.org" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Computer%20Vision-%23FF6F00.svg?style=for-the-badge&logo=opencv&logoColor=white"/> </a> <a href="https://nlp.stanford.edu" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/NLP-%2300C1B5.svg?style=for-the-badge&logo=read-the-docs&logoColor=white"/> </a> <a href="https://generativeai.google" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Generative%20AI-%23C13584.svg?style=for-the-badge&logo=google&logoColor=white"/> </a> <!-- Added skills --> <a href="https://spark.apache.org" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Apache%20Spark-%23E25A2B.svg?style=for-the-badge&logo=apache-spark&logoColor=white"/> </a> <a href="https://mlflow.org" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/MLflow-%2300A6FB.svg?style=for-the-badge&logo=apache&logoColor=white"/> </a> <a href="https://render.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Render-%2328A3F7.svg?style=for-the-badge&logo=render&logoColor=white"/> </a> <a href="https://streamlit.io" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Streamlit-%23FF4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white"/> </a> <a href="https://gradio.app" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Gradio-%2300C7B7.svg?style=for-the-badge&logo=gradio&logoColor=white"/> </a> <a href="https://plotly.com/dash" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Dash-%23003861.svg?style=for-the-badge&logo=plotly&logoColor=white"/> </a> <a href="https://bokeh.org" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Bokeh-%236589FF.svg?style=for-the-badge&logo=bokeh&logoColor=white"/> </a> </p>
 
 ### 📈 GitHub Analytics
 
@@ -127,19 +78,20 @@
 
 ---
 
-### 🌀 Random Developer Quote
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+### 🤖 Latest AI & ML News  
+Stay updated with freshest AI breakthroughs and innovations!  
+
+<p align="center">  
+  <a href="https://news.google.com/search?q=artificial%20intelligence&hl=en-US&gl=US&ceid=US%3Aen" target="_blank" rel="noopener noreferrer">  
+    <img src="https://img.shields.io/badge/Latest-AI_news-blue?style=for-the-badge&logo=google-news&logoColor=white" alt="Latest AI News" />  
+  </a>  
 </p>
 
 ---
 
-### 🌍 Fun Fact: Coding is My Zen Mode 🧘‍♂️
-
-<p align="center">
-  <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="200" height="200"/>
-</p>
-
+🌟 Fun Fact: Coding is My Zen Mode 🧘♂️💻
+<p align="center"> <img src="https://media.giphy.com/media/2IudUHd75HL02Pkk/giphy.gif" width="200" height="200" alt="Coding Zen Mode GIF" /> </p>
+“When I code, I enter a state of flow – focused, calm, and creative, where problem-solving meets mindfulness.”
 ---
 
 Hope you enjoy exploring my profile! Happy coding! 😄✨
