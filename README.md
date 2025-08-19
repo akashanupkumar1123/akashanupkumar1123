@@ -132,14 +132,23 @@ Let’s chat, collaborate, or just geek out over ML!
 
 ---
 
-### 📈 **GitHub Analytics**
+### 📈 **GitHub Analytics & Achievements**
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akashanupkumar1123&theme=highcontrast" alt="Streak Stats"/>
+  <!-- GitHub Streak -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akashanupkumar1123&theme=radical&hide_border=false&background=1b1f23&stroke=00ffff&ring=ff6f61&fire=ffdc00&currStreakNum=00ffff" alt="GitHub Streak Stats" width="350"/>
+  
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=akashanupkumar1123&show_icons=true&count_private=true&theme=radical&hide_border=false&bg_color=1b1f23&title_color=00ffff&icon_color=ff6f61&text_color=ffffff" alt="GitHub Stats" width="350"/>
+  
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashanupkumar1123&layout=compact&theme=radical&hide_border=false&bg_color=1b1f23&title_color=00ffff&text_color=ffffff&langs_count=10" alt="Top Languages" width="350"/>
 </p>
+
+<!-- Optional: Add GitHub Trophies Below -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akashanupkumar1123&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=akashanupkumar1123&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-profile-trophy.vercel.app/?username=akashanupkumar1123&theme=discord&column=4&margin-w=15&margin-h=15&no-bg=true&no-frame=true" alt="GitHub Trophies" />
 </p>
+
 
 ---
 
@@ -155,10 +164,10 @@ Stay updated with freshest AI breakthroughs and innovations!
 
 ### 🌟 Fun Fact: Coding is My Zen Mode 🧘‍♂️💻
 <p align="center">
-  <img src="https://media.giphy.com/media/3o6gbbuLW76jkt8vIc/giphy.gif" width="200" height="200" alt="Coding Zen Mode GIF" />
+  <img src="https://media.giphy.com/media/L0U9F0jZsUQ3xgWtrH/giphy.gif" width="200" height="200" alt="Machine Learning GIF" />
 </p>
-
 *"When I code, I enter a state of flow – focused, calm, and creative, where problem-solving meets mindfulness."*
+
 
 
 ---
