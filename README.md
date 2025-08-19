@@ -130,8 +130,8 @@ Let’s chat, collaborate, or just geek out over ML!
   <!-- GitHub Streak -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=akashanupkumar1123&theme=radical&hide_border=false&background=1b1f23&stroke=00ffff&ring=ff6f61&fire=ffdc00&currStreakNum=00ffff" alt="GitHub Streak Stats" width="350"/>
   
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=akashanupkumar1123&show_icons=true&count_private=true&theme=radical&hide_border=false&bg_color=1b1f23&title_color=00ffff&icon_color=ff6f61&text_color=ffffff" alt="GitHub Stats" width="350"/>
+
+  
   
   <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashanupkumar1123&layout=compact&theme=radical&hide_border=false&bg_color=1b1f23&title_color=00ffff&text_color=ffffff&langs_count=10" alt="Top Languages" width="350"/>
@@ -151,10 +151,10 @@ Stay updated with freshest AI breakthroughs and innovations!
 
 ### 🌟 Fun Fact: Coding is My Zen Mode 🧘‍♂️💻
 <p align="center">
-  <img src="https://i.imgur.com/yourGIFid.gif" width="200" height="200" alt="Machine Learning GIF" />
+  <img src="ai.gif" width="200" height="200" alt="Machine Learning GIF" />
 </p>
-*"When I code, I enter a state of flow – focused, calm, and creative, where problem-solving meets mindfulness."*
 
+*"When I code, I enter a state of flow – focused, calm, and creative, where problem-solving meets mindfulness."*
 
 
 
