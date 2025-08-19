@@ -26,9 +26,9 @@
 </p>
 
 <p align="center">
-  <!-- GitHub Active Users Map -->
-  <img src="https://raw.githubusercontent.com/gayanvoice/github-active-users-map/main/images/github-active-users-map.svg" alt="GitHub Visitor Map" />
+  <img src="https://github-profile-map.vercel.app/map?username=akashanupkumar1123&theme=light" alt="GitHub Visitor Map" />
 </p>
+
 
 ---
 
