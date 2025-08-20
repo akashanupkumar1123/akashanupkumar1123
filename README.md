@@ -1,7 +1,8 @@
 <!-- Animated AI-Themed Banner -->
 <p align="center">
-  <img src="https://media.giphy.com/media/IpWc9hCbbAPvhRX1Je/giphy.gif" alt="AI Banner" width="40%" />
+  <img src="topbanner.gif" alt="AI Banner" width="40%" />
 </p>
+
 
 <!-- ASCII Banner with Typing Animation -->
 <p align="center">
